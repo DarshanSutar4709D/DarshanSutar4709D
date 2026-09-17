@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ascii-art(1).svg" />
-  <source media="(prefers-color-scheme: light)" srcset="ascii-art(1).svg" />
-  <img alt="My GitHub profile" src="dark_mode.svg" />
-</picture>
-
+<video src="art.mp4" autoplay loop muted playsinline width="100%"></video>
 
 
 ## Hi there 👋
