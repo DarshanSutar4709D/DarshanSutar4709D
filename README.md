@@ -4,8 +4,6 @@
   <img alt="My GitHub profile" src="ascii-art.gif" />
 </picture>
 
-## Hi there 👋
-
 
 ## Hi there 👋
 
